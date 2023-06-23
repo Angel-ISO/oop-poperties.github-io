@@ -1,0 +1,5 @@
+/home/apolm01-007/Documents/oop-poperties.github-io/obj/Debug/net7.0/oop-poperties.github-io.csproj.AssemblyReference.cache
+/home/apolm01-007/Documents/oop-poperties.github-io/obj/Debug/net7.0/oop-poperties.github-io.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolm01-007/Documents/oop-poperties.github-io/obj/Debug/net7.0/oop-poperties.github-io.AssemblyInfoInputs.cache
+/home/apolm01-007/Documents/oop-poperties.github-io/obj/Debug/net7.0/oop-poperties.github-io.AssemblyInfo.cs
+/home/apolm01-007/Documents/oop-poperties.github-io/obj/Debug/net7.0/oop-poperties.github-io.csproj.CoreCompileInputs.cache
